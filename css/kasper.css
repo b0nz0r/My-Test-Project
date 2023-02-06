@@ -608,6 +608,10 @@ ul {
     .services .tec .tec-flex .text div {
         margin-top: 25px;
     }
+
+    .services .tec .tec-flex .text {
+        top: 30px;
+    }
 }
 
 
